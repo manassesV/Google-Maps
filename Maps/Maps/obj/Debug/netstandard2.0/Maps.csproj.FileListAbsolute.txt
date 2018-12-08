@@ -1,0 +1,12 @@
+M:\Maps\Maps\Maps\bin\Debug\netstandard2.0\Maps.deps.json
+M:\Maps\Maps\Maps\bin\Debug\netstandard2.0\Maps.dll
+M:\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.csprojAssemblyReference.cache
+M:\Maps\Maps\Maps\obj\Debug\netstandard2.0\App.xaml.g.cs
+M:\Maps\Maps\Maps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+M:\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.csproj.CoreCompileInputs.cache
+M:\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.AssemblyInfoInputs.cache
+M:\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.AssemblyInfo.cs
+M:\Maps\Maps\Maps\bin\Debug\netstandard2.0\Maps.pdb
+M:\Maps\Maps\Maps\obj\Debug\netstandard2.0\XamlC.stamp
+M:\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.dll
+M:\Maps\Maps\Maps\obj\Debug\netstandard2.0\Maps.pdb
